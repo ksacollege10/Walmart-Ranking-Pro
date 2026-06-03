@@ -1,0 +1,6 @@
+{
+  "name": "Walmart Ranking Expert",
+  "description": "Walmart SEO & Product Ranking Service. Increase visibility, organic traffic, and sales with proven product listing optimization strategies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

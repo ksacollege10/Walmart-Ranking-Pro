@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Space Grotesk", sans-serif;
+  --color-walmart-blue: #0071dc;
+  --color-walmart-dark: #004f9a;
+  --color-walmart-navy: #041e42;
+  --color-walmart-accent: #ffc220;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom smooth transitions and animations */
+.glow-on-hover:hover {
+  box-shadow: 0 0 20px rgba(255, 194, 32, 0.4);
+}
+
+.blue-glow:hover {
+  box-shadow: 0 0 25px rgba(0, 113, 220, 0.35);
+}
